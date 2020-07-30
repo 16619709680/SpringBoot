@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    username: root
+    password: 11111111
+    url: jdbc:mysql://localhost:3306/nstc?serverTimezone=UTC&useUnicode=true@characterEncoding=utf-8
+    driver-class-name: com.mysql.jdbc.Driver
+mybatis:
+  mapper-locations: classpath:/mapper/*.xml
+  type-aliases-package: com.jn.springboot_mybits.entity
+

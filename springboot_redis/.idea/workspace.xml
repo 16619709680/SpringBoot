@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de0d3ba1-374c-4d60-820b-bcbfc59ef9fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/data/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\data\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dGALDYilVsyq0mnk3UFXLURUb7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringbootRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot_redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jn.springboot_redis.SpringbootRedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de0d3ba1-374c-4d60-820b-bcbfc59ef9fe" name="Default Changelist" comment="" />
+      <created>1592040997270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592040997270</updated>
+      <workItem from="1592041005070" duration="4355000" />
+      <workItem from="1592110631505" duration="607000" />
+      <workItem from="1592485156619" duration="391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="627" y="218" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1592044938770">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="218" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592044938770" />
+    <state x="721" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1592044946657">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592044946657" />
+    <state x="577" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1592485390942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="577" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592485390942" />
+    <state x="265" y="145" key="new project wizard" timestamp="1592485545334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="265" y="145" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1592485545334" />
+  </component>
+</project>
